@@ -1,0 +1,3 @@
+puts "Enter the input String :-"
+input = gets
+p input.split("")
