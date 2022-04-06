@@ -1,0 +1,7 @@
+puts "Enter the Input variable :-"
+input = gets.chomp 
+puts "Enter the value :-"
+value = gets.chomp
+puts "Input variable is :- "
+puts  input
+puts "Index Value is #{input.index(value)}"
