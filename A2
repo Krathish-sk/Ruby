@@ -1,0 +1,4 @@
+value1= "Krathish "
+value2 = "SK"
+
+puts "The Concatinated String is :- #{value1+value2}"
